@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, gray, rgb(189, 189, 189), gray);
+}
+
+#content {
+    align-items: center;
+    text-align: center;
+    font-family: 'Calibri';
+    margin: auto;
+}
