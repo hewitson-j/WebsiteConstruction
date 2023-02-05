@@ -7,4 +7,10 @@ body {
     text-align: center;
     font-family: 'Calibri';
     margin: auto;
+    max-width: 500px;
+}
+
+img {
+    max-height: 25%;
+    height: 300px;
 }
